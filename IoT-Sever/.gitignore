@@ -1,0 +1,5 @@
+# Thư mục chứa các package cài đặt
+node_modules/
+
+# File cấu hình môi trường
+.env
